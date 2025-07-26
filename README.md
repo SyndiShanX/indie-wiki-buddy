@@ -1,3 +1,10 @@
+# Indie Wiki Buddy Hypixel Fork
+
+* Download a local copy of this [Repo](https://github.com/SyndiShanX/indie-wiki-buddy/archive/refs/heads/main.zip)
+* Extract the ZIP and rename `manifest-chromium.json` to `manifest.json`
+* Go to the Chrome extensions page: `chrome://extensions/` and click the Load Unpacked button in the top left
+* Navigate to your local copy of this Repo and select the folder to Add the Extension
+
 # Indie Wiki Buddy
 
 Indie Wiki Buddy is a browser extension that automatically notifies and redirects you from wikis on large, corporate-run wiki farms to independent wikis.
